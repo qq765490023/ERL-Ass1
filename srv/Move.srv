@@ -1,0 +1,10 @@
+####### Tell real robot the name of the room to go
+
+### name of the room to go
+string name_of_room
+---
+
+### Service output
+
+# Return if succeeded
+bool succeeded 
