@@ -4,7 +4,8 @@ Student id: S5197402
 email: qq765490023@gmail.com
 
 # Introduction
-### The Doxygen documentation can be found here: html/index.html
+### The Doxygen documentation can be found at: html/index.html
+### The Video of the running code can be found at: ERL_ass1.mp4
 
 This is a course project for Experimental Robotics Laboratry, using Smach (For the implementation of state-machine), ARMOR(For accessing Ontology using python), and ROS to simulate a robot visiting different rooms navigated by a topological map.
 
