@@ -4,7 +4,11 @@ Student id: S5197402
 email: qq765490023@gmail.com
 
 # Introduction
+### To Be Noticed:
+The Doxygen documentation can be found here: html/index.html
+
 This is a course project for Experimental Robotics Laboratry, using Smach (For the implementation of state-machine), ARMOR(For accessing Ontology using python), and ROS to simulate a robot visiting different rooms navigated by a topological map.
+
 
 ![](assets/16689738486287.jpg)
 Above is the topological map used for this assignment. To be noticed D5 of room E is modified to D7.
